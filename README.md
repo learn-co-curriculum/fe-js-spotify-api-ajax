@@ -10,7 +10,7 @@ resources: 4
 
 * Build a page that uses data from the [Spotify's Chart API](http://charts.spotify.com/docs) to render a bar chart using [Chart.js](http://chartkick.com/). It will display the latests top 20 streamed songs in the US and will have track names on the x-axis and number of streams on the y-axis.
 
-<img src="images/example.png" alt="example pic">
+<img src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/example.png" alt="example pic">
 
 * Learn how to use AJAX to keep data current.
 * Use a JavaScript visualization library.
