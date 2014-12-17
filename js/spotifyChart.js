@@ -6,6 +6,8 @@ function init(){
   });
 }
 
+// Spotify API Endpoint: http://charts.spotify.com/api/tracks/most_streamed/us/weekly/latest
+
 $(document).ready(function() {
   init();
 });
