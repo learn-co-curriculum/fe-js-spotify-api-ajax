@@ -10,7 +10,7 @@ resources: 4
 
 * Build a page that uses data from the [Spotify's Chart API](http://charts.spotify.com/docs) to render a bar chart using [Chart.js](http://chartkick.com/). It will display the latests top 20 streamed songs in the US and will have track names on the x-axis and number of streams on the y-axis.
 
-![example pic](/images/example.png "Pic of Example")
+<img src="images/example.png" alt="example pic">
 
 * Learn how to use AJAX to keep data current.
 * Use a JavaScript visualization library.
@@ -20,8 +20,8 @@ resources: 4
 1. Fork this repository.
 2. Clone your fork locally.
 3. cd into the local repos folder.
-4. Open SpecRunner.html in your browser.
-5. Make the tests pass in spec/spotifyChartSpec.js by writing the code neccesary in js/spotifyChart.js
+4. Open SpecRunner.html in your browser. Also open index.html
+5. Make the tests pass in spec/spotifyChartSpec.js by writing the code neccesary in js/spotifyChart.js also make sure when your finished the chart is appearing in index.html
 
 ## Instructions
 
