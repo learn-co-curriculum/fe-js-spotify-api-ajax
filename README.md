@@ -1,8 +1,4 @@
----
-language: javascript
-tags: fe, AJAX, data visualization, JavaScript library
-resources: 4
----
+
 
 # Visualizing Spotify's Popular Genres
 
