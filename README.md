@@ -32,3 +32,5 @@
 * [jQuery](http://api.jquery.com/) - [AJAX](http://api.jquery.com/jquery.ajax/)
 * [Chart.js](http://www.chartjs.org/docs/#getting-started) - [Bar Chart](http://www.chartjs.org/docs/#bar-chart-example-usage)
 * [Jasmine 2.0 Documentation](http://jasmine.github.io/2.0/introduction.html)
+
+<a href='https://learn.co/lessons/fe-js-spotify-api-ajax' data-visibility='hidden'>View this lesson on Learn.co</a>
