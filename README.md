@@ -33,4 +33,4 @@
 * [Chart.js](http://www.chartjs.org/docs/#getting-started) - [Bar Chart](http://www.chartjs.org/docs/#bar-chart-example-usage)
 * [Jasmine 2.0 Documentation](http://jasmine.github.io/2.0/introduction.html)
 
-<a href='https://learn.co/lessons/fe-js-spotify-api-ajax' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-js-spotify-api-ajax' title='Visualizing Spotify's Popular Genres'>Visualizing Spotify's Popular Genres</a> on Learn.co and start learning to code for free.</p>
